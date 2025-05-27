@@ -9,7 +9,7 @@ Welcome to **EmotiLearn**, your intelligent and adaptive learning assistant that
 ## 🌐 Project URL
 
 * **Live Link**: *![27 05 2025_12 56 02_REC](https://github.com/user-attachments/assets/3fea27e3-7a4e-45ab-8142-fae7799b1752)*
-* **GitHub Repo**: *\[Add your repo link here]*
+* **GitHub Repo**: *https://github.com/Mittalkabir/Code-In-Place-Final-Project-2025/tree/main*
 
 ---
 
